@@ -38,8 +38,6 @@ import warnings
 [Seagate soft sensing data sets](https://github.com/Seagate/softsensing_data),
 
 
-We can get the raw data through the links above. The raw data is under the folder `BigDataChallenge/data//` of the above github link.
-
 ## Training and Evaluation
 
 The training procedure and evaluation procedure are all included in the `Soft_sensing_GNN.py`.
